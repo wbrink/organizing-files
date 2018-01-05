@@ -12,5 +12,5 @@ This program currently uses two scripts.
 depends on EXIF data.
 
 
-### **Future**
-* Would like to combine both files along with checks for jpegs
+## **Future**
+* Would like to combine both files along with checks for jpegs within directories
