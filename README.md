@@ -8,8 +8,8 @@ This program currently uses two scripts.
 > year_month_day.jpeg
 
 
-**_rename_files_datetaken.py_** assumes that the contents of the destination folder contains all JPEG files. This leaves it up to the user to make sure that the file contains jpegs as the scripts
-depends on the assumption of accessing EXIF data.
+**_rename_files_datetaken.py_** assumes that the contents of the destination folder contains all JPEG files. This leaves it up to the user to make sure that the file contains only jpegs. The script
+depends on accessing EXIF data for each file in the directory.
 
 
 ## **Future**
