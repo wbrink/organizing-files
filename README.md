@@ -9,7 +9,7 @@ This program currently uses two scripts.
 
 
 **_rename_files_datetaken.py_** assumes that the contents of the destination folder contains all JPEG files. This leaves it up to the user to make sure that the file contains jpegs as the scripts
-depends on EXIF data.
+depends on the assumption of accessing EXIF data.
 
 
 ## **Future**
